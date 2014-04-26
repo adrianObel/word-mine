@@ -1,0 +1,18 @@
+{
+  "name": "mine-text",
+  "version": "0.0.1",
+  "description": "Text mining module for splitting one or more files into words, arranging them, and count and order the words by most repeated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Text",
+    "mining",
+    "text",
+    "mine",
+    "keywords"
+  ],
+  "author": "Adrian Obelmejias",
+  "license": "MIT"
+}
