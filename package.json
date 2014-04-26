@@ -1,5 +1,5 @@
 {
-  "name": "mine-text",
+  "name": "word-mine",
   "version": "0.0.1",
   "description": "Text mining module for splitting one or more files into words, arranging them, and count and order the words by most repeated",
   "main": "index.js",

@@ -1,2 +1,2 @@
-#mine-text
+#word-mine
 
