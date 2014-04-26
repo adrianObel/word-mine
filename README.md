@@ -27,7 +27,7 @@ mine.parseText('How much wood would a wood chuck chuck', callback)
 ```
 ###mine#parseFiles(files[,...], options, callback)
 files can be a single file string or an array of strings, to represent multiple files.
-text from all files is concated into one large string and then parsed as a whole.
+Text from all files is concated into one large string and then parsed as a whole.
 ```javascript
 mine.parseFiles(['woodchuck1.txt', 'woodchuck2.txt'], callback)
 ```
