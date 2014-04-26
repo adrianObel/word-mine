@@ -1,10 +1,17 @@
 {
   "name": "word-mine",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Text mining module for splitting one or more files into words, arranging them, and count and order the words by most repeated",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=0.10.25"
+  },
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/adrianObel/word-mine"
   },
   "keywords": [
     "Text",
